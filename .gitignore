@@ -1,0 +1,12 @@
+obj/
+install/
+configure
+run.sh
+*.json
+*.log
+*.o
+*.in
+*.a
+*.Tpo
+*.Po
+*.zed*
